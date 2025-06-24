@@ -1,0 +1,3 @@
+algo
+git add ejemplo.txt
+git commit -m "yasta el ejemplo"
